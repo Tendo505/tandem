@@ -1,0 +1,65 @@
+<resources>
+    <string name="settings">Tetapan</string>
+    <string name="back">Kembali</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="more">Pilihan lain</string>
+
+    <string name="new_list">Senarai baharu</string>
+    <string name="join_list">Sertai senarai kongsi</string>
+    <string name="list_name">Nama senarai</string>
+    <string name="create">Cipta</string>
+    <string name="join">Sertai</string>
+    <string name="list_code_label">Kod senarai</string>
+    <string name="join_hint">Tampal kod atau mesej yang dikongsi dengan anda.</string>
+    <string name="join_invalid">Teks itu tiada kod senarai Tandem.</string>
+    <string name="empty_lists_title">Belum ada senarai</string>
+    <string name="empty_lists_body">Buat senarai untuk barang dapur, kerja rumah atau percutian, kemudian kongsi kodnya supaya orang lain boleh menyuntingnya bersama anda. Semuanya berfungsi di luar talian dan digabungkan apabila anda bersambung semula.</string>
+    <string name="untitled">Senarai tanpa nama</string>
+    <string name="progress">%1$d daripada %2$d selesai</string>
+    <string name="no_items">Tiada item</string>
+    <plurals name="unsynced">
+        <item quantity="one">%d perubahan menunggu untuk disegerakkan</item>
+        <item quantity="other">%d perubahan menunggu untuk disegerakkan</item>
+    </plurals>
+
+    <string name="share">Kongsi</string>
+    <string name="share_text">Sertai senarai Tandem saya \"%1$s\" dengan kod ini: %2$s</string>
+    <string name="share_via">Kongsi kod senarai</string>
+    <string name="copy_code">Salin kod senarai</string>
+    <string name="code_copied">Kod disalin</string>
+    <string name="rename">Namakan semula senarai</string>
+    <string name="clear_done">Buang item selesai</string>
+    <string name="leave">Buang dari telefon ini</string>
+    <string name="leave_confirm_title">Buang senarai ini?</string>
+    <string name="leave_confirm_body">Senarai ini hilang dari telefon ini sahaja. Sesiapa yang anda kongsikan masih menyimpannya, dan anda boleh sertai semula dengan kod %1$s.</string>
+    <string name="leave_confirm_pending">%1$s Perubahan yang belum disegerakkan akan hilang.</string>
+    <string name="leave_confirm">Buang</string>
+    <string name="add_item_hint">Tambah item</string>
+    <string name="add">Tambah</string>
+    <string name="move_up">Alih ke atas</string>
+    <string name="move_down">Alih ke bawah</string>
+    <string name="delete">Padam</string>
+    <string name="item_deleted">Item dipadam</string>
+    <string name="undo">Buat asal</string>
+    <string name="empty_list">Senarai ini kosong. Tambah item pertama di bawah.</string>
+    <string name="downloading_list">Menunggu senarai ini dimuat turun. Ia akan muncul sebaik sahaja telefon ini dapat menghubungi pelayan.</string>
+    <string name="edit_item">Sunting</string>
+    <string name="mark_done">Tandakan \"%1$s\" sebagai selesai</string>
+
+    <string name="status_synced">Disegerakkan %1$s</string>
+    <string name="just_now">sebentar tadi</string>
+    <string name="status_syncing">Menyegerakkan…</string>
+    <string name="status_offline">Luar talian. Perubahan disimpan di telefon ini dan akan disegerakkan kemudian.</string>
+    <string name="status_not_configured">Penyegerakan dimatikan. Senarai kekal di telefon ini sehingga anda menambah pelayan dalam Tetapan.</string>
+    <string name="status_rejected">Pelayan menolak beberapa perubahan: %1$s</string>
+    <string name="status_never">Belum disegerakkan</string>
+
+    <string name="server_url">Alamat pelayan penyegerakan</string>
+    <string name="server_url_help">Biarkan kosong untuk menyimpan senarai di telefon ini sahaja. Untuk berkongsi senarai, jalankan pelayan Tandem dan masukkan alamatnya, contohnya https://tandem.example.com.</string>
+    <string name="server_url_invalid">Masukkan alamat yang bermula dengan http:// atau https://</string>
+    <string name="sync_now">Segerakkan sekarang</string>
+    <string name="device_id">Id penyegerakan telefon ini: %1$s</string>
+    <string name="how_title">Cara penyegerakan berfungsi</string>
+    <string name="how_body">Setiap perubahan disimpan di telefon ini dahulu, jadi aplikasi tidak perlu menunggu rangkaian. Perubahan dihantar ke pelayan di latar belakang dan telefon lain mengambilnya. Jika dua orang mengubah perkara yang sama, perubahan terkini menang di setiap telefon, jadi semua orang mendapat senarai yang sama.</string>
+</resources>

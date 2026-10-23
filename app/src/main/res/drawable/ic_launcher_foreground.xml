@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Two overlapping list cards, the front one ticked: one list, edited together. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.45"
+        android:pathData="M44,32h24a6,6 0,0 1,6 6v24a6,6 0,0 1,-6 6h-24a6,6 0,0 1,-6 -6v-24a6,6 0,0 1,6 -6z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M38,40h24a6,6 0,0 1,6 6v24a6,6 0,0 1,-6 6h-24a6,6 0,0 1,-6 -6v-24a6,6 0,0 1,6 -6z" />
+    <path android:strokeColor="#0F766E" android:strokeWidth="5" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M41,58l6,6 12,-13" />
+</vector>
