@@ -1,0 +1,12 @@
+# The Dockerfile only copies gradlew, the root build files, gradle/, core/ and server/.
+.git
+.github
+.idea
+app
+docs
+out
+local.properties
+**/build
+**/.gradle
+**/.kotlin
+**/*.iml
